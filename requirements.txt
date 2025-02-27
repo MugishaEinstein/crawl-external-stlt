@@ -1,0 +1,4 @@
+streamlit==1.23.0  # Replace with the latest version if needed
+requests==2.31.0  # Replace with the latest version if needed
+beautifulsoup4==4.12.2  # Replace with the latest version if needed
+pandas==2.0.3  # Replace with the latest version if needed
